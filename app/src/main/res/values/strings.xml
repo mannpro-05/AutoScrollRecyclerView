@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">AutoScrollRecyclerView</string>
+    <string name="text_training">
+        Please read this form carefully.  The purpose of this form is to provide you with important
+        information about taking part in a research study. If any of the statements or words in
+        this form are unclear, please let us know. We would be happy to answer any questions.
+        If you have any questions about the research or any portion of this form, please contact
+        us.  Taking part in this research study is up to you.
+        If you decide to take part in this research study we will ask you to electronically sign
+        this form. The purpose of this study is to learn if data collected through a smartphone
+        application (app) from your phone may be helpful in understanding more about patterns in
+        social activity. About 50 participants will take part in this study. The user must have an
+        Android smartphone to participate. This study involves taking a set of online questionnaires
+        at the start of a 14-day study period, at the start of which you will download an app to
+        your smartphone and answer short surveys on the app three times per day.
+        This app was developed by computer scientists and psychologists at Boston University and
+        is used for research only. The apps collect information in several different ways:
+        The app will ask you to complete brief sets of questions about where you are and who
+        you are with.  This is called active data collection and you can decide whether or
+        not you wish to complete the survey at time of prompting. The app will automatically
+        collect: Location information gathered by your phone\’s location sensor/global positioning
+        (GPS) sensors. Activity type collected by your phone\'s accelerometer (walking, biking,
+        driving, etc.). App-usage, specifically how much time is spent using other apps on your
+        phone. Audio data, specifically a yes-no classification of whether or not the audio
+        collected is of a conversation, based on audio features (qualities of your voice and others
+        that tell us if you may be in a conversation), not language content.  We expect that you
+        will be in this research study for approximately 14 days during which you are being asked
+        to test a smartphone app. Before the 14-day period, we will ask you to complete a brief set
+        of questionnaires (15-20 min), and will then provide you instructions for downloading the
+        app on your phone. You are being asked to test the app for 14 days.  At the start of the
+        14 day period we will ask you to complete a set of questionnaires online (15-20 min),
+        and download the study app. During this 14-day period you will be prompted to take brief
+        (less than 5 minute) smartphone assessments, three times per day. As a whole, the study
+        will take no longer than 3 hours of your time. You can decide if you want to complete the
+        surveys prompted at multiple times per day, which actively collect information from you.
+        The app will offer you surveys about the type of place you are in, the type of people
+        (if any) you are around, and questions about recent interactions with others. These surveys
+        will pop up as reminders on your phone. You are free to either take these surveys or choose
+        to ignore them and not take them. It is important to understand that for the 14 days you
+        are in this study the app will passively collect data in the background several different
+        ways. One type of data is location (GPS) data from your phone even if you are not using
+        your phone. GPS stands for global positioning system and allows the phone to know where
+        you are located and stores this data; GPS is usually accurate to within 10 feet. This app
+        will collect GPS data constantly and securely send that information to our computers.
+        The app will also be collecting your physical activity (walking, biking, driving, etc.)
+        through your phone\'s accelerometer, and will collect information on how much time you
+        spend using other apps on your phone; specifically, the percentage of time spent on
+        social media apps, the amount of time spent on calls, number of texts sent, and number of
+        videos taken. The actual content of this activity will NOT be collected. Lastly, the app
+        will use your phone\'s microphone to intermittently collect audio from your environment.
+        This audio data itself will not be stored, rather the app will simply assign a value to
+        how likely it is that the audio was of a conversation. This yes-no probability value will
+        be the data point that is securely sent to our computers. Your data will not be monitored
+        in real time, meaning locations, activity, app-use, and audio data will only be reviewed
+        retrospectively, after your participation is complete. Even if you decide not to complete
+        the daily questionnaires, GPS, app usage and audio will continue to be collected during
+        the 14-day study period. If you wish to no longer participate in the study, you will need
+        to formally withdraw by contacting the Principal Investigator (contact info listed on first
+        and last pages of this document) and uninstalling the app. We will keep the records of this
+        study confidential. We will assign you a unique study ID code for the research information
+        that we collect and no identifying information will be included with the data. The secured
+        SONA systems will contain the link between your first name and your study ID code. However,
+        this will not be accessible to study staff members actively analyzing data, and will no
+        longer be accessible to anyone on the research team once data collection is complete. We
+        will make every effort to keep your records confidential. However, there are times when
+        federal or state law requires the disclosure of your records. We will make every reasonable
+        effort to protect the confidentiality of your research information. However, it might be
+        possible that a civil or criminal court might demand the release of identifiable research
+        information. If compelled by a Massachusetts or federal judge to disclose information
+        we have collected about you, we may need to release your identifiable information.
+        We will make every effort to keep your records confidential.  However, there are times
+        when federal or state law requires the disclosure of your records. The following people
+        or groups may review your study records for purposes such as quality control or safety:
+        The Researcher and any member of his research team. The Institutional Review Board at
+        Boston University. The Institutional Review Board is a group of people who review human
+        research studies for safety and protection of people who take part in the studies. Federal
+        and state agencies that oversee or review research. The study data will be stored on secure
+        servers with no identifying information, and access will only be given to researchers on
+        this project.  The results of this research study may be published or used for teaching.
+        We will not put identifiable information on data that are used for these purposes. Taking
+        part in this study is your choice. You are free not to take part or to withdraw at any time
+        for any reason. No matter what you decide, there will be no penalty or loss of benefit to
+        which you are entitled. If you choose to discontinue participation at any time, you will
+        still receive SONA participation credit for your time spent actively participating, pro-rated
+        at the rate of 0.5 credits for the initial questionnaires, and 0.5 credits for every 6 brief
+        app-surveys completed. If you decide to withdraw from this study, the information that you
+        have already provided will be kept confidential, specifically all information will be kept
+        de-identified. You will also have the option of deleting the app at any point, or asking
+        investigators to delete your data. You may choose not to be in the study or to stop being
+        in the study before it is over at any time.  This will not affect your class standing or
+        your grades at Boston University.  You will not be offered or receive any special consideration
+        if you take part in this research study. If you choose to withdraw from the study, we ask
+        that you contact study staff (contact information listed on first and last pages of this document).
+        Your data will then be permanently deleted from the server on which data is stored, and will
+        not be available for analysis in any form. Also, the researcher may take you out of this
+        study without your permission.  This may happen because: You do not meet eligibility
+        requirements; The researcher thinks it is in your best interest; Other administrative
+        reasons. There is also the possibility that questions on study surveys or aspects of
+        passive data collection may make you feel uncomfortable. As outlined above, you will be
+        able to speak with investigators and/or delete the app at any time should it make you feel
+        uncomfortable. You always have the option of refusing to answer any question on any
+        questionnaire, whether online or via smartphone, and you have the option of not completing
+        any portion of the study. In such a case you can leave the question blank on a questionnaire
+        or you can let the researcher know by the email provided that you do not want to answer
+        the question. One risk of allowing us to use and store your information for research is
+        a potential loss of confidentiality. We will protect your confidentiality by labeling your
+        information with a number code and keeping the key linking your number and first name in a
+        password-protected platform. Electronic data will be stored on encrypted computers only
+        accessible to study staff by password and the appropriate digital credentials. There are no
+        known direct benefits for taking part in this study. Data collected in this study has the
+        potential to improve the scientific community\'s understanding of how mobile phone-based
+        sensors could be used to identify patterns of social activity; which could one day help to
+        assess and treat those with mental illness. The alternative is to not participate in this
+        study. If you do not wish to participate in this study, there are other studies in which
+        you can participate. You can also contact your instructor to learn more about an alternative
+        way to fulfill the experimental participation requirement—e.g., through writing a short
+        paper. If you have any questions about the PS101 research requirement, please contact Dr.
+        Joanne Hebden Palfai, Department of Psychological and Brain Sciences, Director of Academic
+        Affairs and Undergraduate Studies, at (617) 353-2064 or at jpalfai@bu.edu. There are no
+        costs to you for taking part in this research study. If you are injured as a result of
+        taking part in this research study, we will assist you in getting medical treatment. However,
+        your insurance company will be responsible for the cost. Boston University does not provide
+        any other form of compensation for injury. You can call or email us with any concerns or
+        questions. If you have questions about your rights as a research subject or want to speak
+        with someone independent of the research team, you may contact the Boston University IRB
+        directly at 617- 358-6115.  I have read the information in this consent form including
+        risks and possible benefits.  I have been given the chance to ask questions.
+        My questions have been answered to my satisfaction, and I agree to participate in the study.
+    </string>
+</resources>
